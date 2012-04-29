@@ -1,4 +1,5 @@
 #逆ポーランド記法を実装する
+
 #!usr/bin/perl
 
 use strict;
