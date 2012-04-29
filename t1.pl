@@ -25,7 +25,6 @@ sub seach_next_pair{
         foreach(@_){
                 unless(/[0-9]/){
                         my $answer; 
-
                         my $length = $#_;
 
                         $answer = $_[$i-2] + $_[$i-1] if($_[$i] eq '+');
