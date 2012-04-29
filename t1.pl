@@ -4,7 +4,6 @@
 use strict;
 use warnings;
 
-
 while(<>){
         chomp;
         my @line = split//,$_;
